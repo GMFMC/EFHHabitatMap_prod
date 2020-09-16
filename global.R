@@ -15,6 +15,7 @@ library(htmltools)
 library(leaflet.extras)
 library(shinyBS)
 library(rgdal)
+library(leaflet.esri)
 #EXTENT <- extent(c(-100.42, -69.59, 20.82, 32.57))
 enableBookmarking(store = "url")
 
